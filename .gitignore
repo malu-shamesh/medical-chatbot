@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Input documents (place manually, not committed)
+docs/*
+!docs/.gitkeep
+
+# Generated artifacts
+outputs/*
+!outputs/.gitkeep
